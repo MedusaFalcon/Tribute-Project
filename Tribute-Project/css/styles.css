@@ -1,0 +1,56 @@
+body {
+  background-color: #effcef;
+}
+
+h1 {
+  font-family: 'Abril Fatface', cursive;
+  font-size: 100px;
+  text-align: center;
+  color: #ce0f3d;
+}
+
+
+.bakugo-2 {
+  max-width: 40%;
+  height: auto;
+  border-radius: 50%;
+  opacity: 0.5;
+  float: right;
+}
+
+.tribute-info {
+  font-family: 'Cormorant Garamond', serif;
+  text-align: center;
+  width: 40%;
+}
+
+.image-3 {
+  max-width: 40%;
+  height: auto;
+  border-radius: 50%;
+  opacity: 0.5;
+  float: left;
+}
+
+.par-2 {
+  font-family: 'Cormorant Garamond', serif;
+  text-align: center;
+  width: 40%;
+  float: right;
+}
+
+.fun-fact {
+  font-family: 'Abril Fatface', cursive;
+  font-size: 70px;
+  text-align: center;
+  color:#ce0f3d;
+}
+
+.fun-fact2 {
+  display:block;
+  font-family: 'Cormorant Garamond', serif;
+  text-align: center;
+  font-size: 30px;
+  width: 60%
+
+}
